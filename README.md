@@ -1,17 +1,19 @@
 # hacettepe-vites-dataset
 Hacettepe ViTES Veri Seti
 
-Aşağıdaki tez kapsamında yapılan �alışmalarda yayımlanmıştır.
+Hacettepe ViTES Omuz Fizyoterapi veri seti aşağıdaki tez kapsamında yapılan çalışmalar doğrultusunda yayımlanmaktadır:
 
 "Virtual Training Environment for Shoulder Exercises with Real-Time Recognition from RGB-D Data"
-"Sanal Eğitim Asistanı Kullanılarak Omuz Egzersizlerinin RGB-D Verisiyle Ger�ek Zamanlı Olarak Tanınması"
+"Sanal Eğitim Asistanı Kullanılarak Omuz Egzersizlerinin RGB-D Verisiyle Gerğ§ek Zamanlı Olarak Tanımlanması"
 
-Veri seti Kinect 1.8 tarafından elde edilen konum verilerini i�erir. Bu veri seti Fizyoterapi hareketlerini i�erir. 
-Fizyoterapi hareketleri alanında uzman fizyoterapistler tarafından yaş, kilo ve boy uzunluğu farkı g�zetilerek oluşturulmuşutur. 
-RGB ve derinlik resimleri i�in iletişime ge�ebilirsiniz.
+Belirtilen tezi alıntılayarak veri setini kullanmanızda bir sakınca bulunmamaktadır.
 
-İletişim i�in:
+Veri seti Kinect 1.8 tarafından elde edilen konum verilerini içerir. Bu veri seti Fizyoterapi hareketlerini içerir. 
+Fizyoterapi hareketleri alanında uzman fizyoterapistler tarafından yaş, kilo ve boy uzunluğu farklı gözetilerek oluşturulmuştur. 
+RGB ve derinlik resimleri için iletişime geçebilirsiniz.
+
+İletişim için:
 volkanulutas@hacettepe.edu.tr
 
-## Veri Setinde Yer Alan �rnek Hareketler:
+## Veri Setinde Yer Alan Örnek Hareketler:
 ![alt text](https://raw.githubusercontent.com/volkanulutas/hacettepe-vites-dataset/master/example_exercises/dataset.png)
