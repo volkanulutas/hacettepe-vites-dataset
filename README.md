@@ -13,7 +13,8 @@ Fizyoterapi hareketleri alanında uzman fizyoterapistler tarafından yaş, kilo 
 RGB ve derinlik resimleri için iletişime geçebilirsiniz.
 
 İletişim için:
-volkanulutas@hacettepe.edu.tr
+Volkan Ulutaş, volkanulutas@hacettepe.edu.tr
+Yrd.Doc.Dr. Ufuk Çelikcan, ufuk.celikcan@gmail.com.tr
 
 ## Veri Setinde Yer Alan Örnek Hareketler:
 ![alt text](https://raw.githubusercontent.com/volkanulutas/hacettepe-vites-dataset/master/example_exercises/dataset.png)
