@@ -14,5 +14,4 @@ RGB ve derinlik resimleri için iletişime geçebilirsiniz.
 volkanulutas@hacettepe.edu.tr
 
 ## Veri Setinde Yer Alan Örnek Hareketler:
-
-![Alt text](hacettepe-vites-dataset/example_exercises/A1.png?raw=true "A1 Hareketi")
+![alt text](https://raw.githubusercontent.com/volkanulutas/hacettepe-vites-dataset/master/example_exercises/A1.png)
