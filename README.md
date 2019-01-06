@@ -20,3 +20,4 @@ Yrd.Doc.Dr. Ufuk Çelikcan, ufuk.celikcan@gmail.com.tr
 
 ## Veri Setinde Yer Alan Örnek Hareketler:
 ![alt text](https://raw.githubusercontent.com/volkanulutas/hacettepe-vites-dataset/master/example_exercises/dataset.png)
+Proje anasayfa: https://github.com/volkanulutas/hacettepe-vites
