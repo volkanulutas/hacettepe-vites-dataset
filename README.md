@@ -4,7 +4,7 @@ Hacettepe ViTES Veri Seti
 Hacettepe ViTES Omuz Fizyoterapi veri seti aşağıdaki tez kapsamında yapılan çalışmalar doğrultusunda yayımlanmaktadır:
 
 "Virtual Training Environment for Shoulder Exercises with Real-Time Recognition from RGB-D Data"
-"Sanal Eğitim Asistanı Kullanılarak Omuz Egzersizlerinin RGB-D Verisiyle Gerğ§ek Zamanlı Olarak Tanımlanması"
+"Sanal Eğitim Asistanı Kullanılarak Omuz Egzersizlerinin RGB-D Verisiyle Gerçek Zamanlı Olarak Tanımlanması"
 
 Belirtilen tezi alıntılayarak veri setini kullanmanızda bir sakınca bulunmamaktadır.
 
